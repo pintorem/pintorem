@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm a Software Engineer and student at University of Cagliari</h3>
 
 - 🌱 I’m currently learning: **AI, Algorithms, ML**
