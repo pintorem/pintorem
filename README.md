@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm a Software Engineer and student at University of Cagliari</h3>
+<h3 align="center">I'm a MSc student at University of Cagliari</h3>
 
 - 🌱 I’m currently learning: **AI, Algorithms, ML**
 
